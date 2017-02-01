@@ -308,6 +308,13 @@ input[type=submit] {
     cursor: pointer;
 }
 
+textarea{
+	width: 100%;
+	margin-bottom: 10px;
+	box-sizing: border-box;
+	border-color: lightgrey;
+}
+
 label{
 	color: #20afa7;
 	font-family: 'Georgia', Times, Times New Roman, serif;
